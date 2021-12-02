@@ -1,0 +1,140 @@
+@charset "utf-8";
+body {
+  background-color: #f8f4e6;
+  // background-color: #f9f9f9;
+}
+
+main {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  // font-family: 'Corben';
+  // font-family: 'Homemade Apple';
+}
+
+.a {
+ display: flex;
+//  width: 50px;
+//  margin: 0;
+//  text-align: right;
+margin-left: 1000px;
+}
+
+.aa {
+  width: 120px;
+  // margin: auto;
+  text-align: center;
+}
+.photo1 {
+  position: relative;
+  display: block;
+  margin-bottom: 30px;
+  margin: 0 auto;
+  width: 90%;
+  height: 600px;
+  margin-bottom: 30px;
+}
+
+.photogroup {
+  margin: 0 auto;
+  // color: white;
+  position: absolute;
+  top: 70px;
+  left: 90px;
+ -webkit-text-stroke-width:1px ;
+ -webkit-text-stroke-color: black;
+-webkit-text-fill-color: rgba(255, 255, 255, 0);
+// font-size: 60px;
+//       font-weight: bold;
+//       -webkit-text-stroke-width: 2px;
+//       -webkit-text-stroke-color: orange;
+//       -webkit-text-fill-color: white;
+//       text-shadow: 5px 3px 0 orange;
+}
+
+.daihyou {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+
+.matuaki {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  width: 20%;
+  height: 20%;
+  // border-radius: 100%;
+  margin-bottom: 30px;
+}
+
+.aisatu {
+ line-height: 35px;
+}
+// .aki {
+//   margin: 0 auto;
+// }
+
+.aisatu {
+  margin: 0 auto;
+  margin-bottom: 30px;
+
+}
+
+.photo2 {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  height: 90%;
+  position: relative;
+}
+
+.b {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Introduction {
+  width: 90%;
+  display: block;
+  font-size: 20px;
+  color: white;
+  margin: 0 ;
+  text-align: center;
+  position: relative;
+  bottom: 500px;
+  left: 50px;
+  // font-family: 'Londrina Shadow', cursive;
+  // font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.photo3 {
+  width: 200px;
+  height: 300px;
+}
+
+.ansin {
+  line-height: 35px;
+}
+
+.photo4 {
+  // display: block;
+  width: 400px;
+  height: 200px;
+}
+
+.renraku {
+  line-height: 35px;
+}
+
+.photo5 {
+  // display: block;
+  width: 400px;
+  height: 300px;
+}
+
+
+.ibento {
+  line-height: 35px;
+}
